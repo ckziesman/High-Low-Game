@@ -1,0 +1,10 @@
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\bin\Debug\Final_CZiesman_HighLowGame.exe.config
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\bin\Debug\Final_CZiesman_HighLowGame.exe
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\bin\Debug\Final_CZiesman_HighLowGame.pdb
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.csprojAssemblyReference.cache
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.Form1.resources
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.Properties.Resources.resources
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.csproj.GenerateResource.cache
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.csproj.CoreCompileInputs.cache
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.exe
+C:\Users\Ruka\Desktop\VisualStudioCProjects\Final_CZiesman_HighLowGame\obj\Debug\Final_CZiesman_HighLowGame.pdb
